@@ -1,0 +1,3 @@
+VS Code
+Wizytówka hakera. Załóz folder projektu, otwórz go w VS Code i stwórz plik o nazwie wizytowka.py, 
+który wypisuje ksywkę, ulubioną grę i jedną rzecz, której chce się nauczyć. Uruchomienie z wbudowanego terminala.

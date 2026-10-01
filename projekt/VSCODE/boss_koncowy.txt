@@ -1,0 +1,5 @@
+1. W terminalu utwórz folder projektu i wejdź do niego.
+2. Utwórz środowisko wirtualne i zainstaluj pakiet do banerów.
+3. W VS Code napisz skrypt, który wypisuje ksywkę agenta.
+4. Zainicjuj repozytorium, zrób co najmniej dwa commity z sensownymi opisami.
+5. Wypchnij projekt na GitHuba.
