@@ -1,0 +1,12 @@
+KOMENDY GIT
+
+git status              # co się dzieje?
+git add .               # przygotuj zmiany
+git commit -m "opis"    # zapisz zmiany
+git push                # wyślij na GitHuba
+git pull                # pobierz zmiany
+git switch nazwa        # przełącz branch
+git switch -c nazwa     # utwórz branch
+
+git branch -d ZADANIE           # lokalnie
+git push origin --delete ZADANIE # GitHub
